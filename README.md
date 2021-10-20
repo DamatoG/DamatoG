@@ -9,6 +9,7 @@ Skills:
 * Conocimiento basico C++ (+6 meses)
 * Conocimientos en HTML/CSS (+6 meses)
 * Conocimiento basico JavaScript
+* Conocimiento en GIT7GITHUB (+3meses)
 
 Contacto:
 
