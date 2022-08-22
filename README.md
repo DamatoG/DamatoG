@@ -1,15 +1,15 @@
 👋 Hola.
 
-Mi nombre es Gonzalo D´Amato. Soy estudiante en la UTN en la carrera Tecrnicatura Universitaria en Programacion.
-Actualmente estoy en la busqueda de mi primer empleo como programador Jr.
+Mi nombre es Gonzalo, tengo 27 años. Actualmente estoy cursando el ultimo cuatrimestre de la tecnicatura universitaria en programación. Tengo experiencia en gestion de proyecto como Scum Master. 
 
-Skills:
+Tecnologias:/Herramientas:
 
-* Conocimientos en Python (+1 año)
-* Conocimiento basico C++ (+6 meses)
-* Conocimientos en HTML/CSS (+6 meses)
-* Conocimiento basico JavaScript
-* Conocimiento en GIT7GITHUB (+3meses)
+* Python/Flask
+* JAva/SpringBoot
+* HTML/CSS
+* JavaScript/Vue.js
+* Postman
+* Jira Software
 
 Contacto:
 
