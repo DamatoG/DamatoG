@@ -1,15 +1,15 @@
 👋 Hola.
 
-Mi nombre es Gonzalo, tengo 27 años. Actualmente estoy cursando el ultimo cuatrimestre de la tecnicatura universitaria en programación. Tengo experiencia en gestion de proyecto como Scum Master. 
+Mi nombre es Gonzalo y tengo 29 años. Soy Técnico Universitario en Programación, especializado en desarrollo Backend Java, recibido de la UTN FRBB. Cuento con 3 años de experiencia en en la industria IT, ocupando roles de gestión de proyectos de tecnologia y 2 años como desarrollador freelancer. 
 
 Tecnologias:/Herramientas:
 
-* Python/Flask
-* JAva/SpringBoot
-* HTML/CSS
-* JavaScript/Vue.js
-* Postman
+* Java | Spring Boot | Spring Security | JPA | Hibernate | Spring Cloud 
+* Python | Flask
+* JavaScript | Node.js | Expres | Vue.js
+* SQL | MySql | Workbench 
 * Jira Software
+* Postamn
 
 Contacto:
 
